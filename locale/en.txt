@@ -1,0 +1,32 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_8B5DBFC2_8762_2D57_41DC_2E0FA86FFEF8.label = Original Pnao
+panorama_99ABFF10_8BE6_B26C_41E0_7B23DFE6ABF3.label = Pimpalpada_KML_overlay_v2_360_8k
+panorama_84E16479_8BE5_569C_41D1_405320D909B0.label = Pimpalpada_Revit_A_without_WCS_360_8k
+panorama_84E009DD_8BE5_5195_41C2_E9BF25024A46.label = Pimpalpada_Revit_B_new_layout_360_8k
+
+## Skin
+
+### Button
+Button_96A45DE6_87A6_2D5F_41E0_D4A85F302467_mobile.label = KML Overlay
+Button_96A45DE6_87A6_2D5F_41E0_D4A85F302467.label = KML Overlay
+Button_881659D9_87A2_5575_41C4_6AA14722FD17_mobile.label = Original 
+Button_881659D9_87A2_5575_41C4_6AA14722FD17.label = Original 
+Button_96ED4CCF_87A6_536E_41A2_BA7C43FB9E0B.label = Revit Model A
+Button_96ED4CCF_87A6_536E_41A2_BA7C43FB9E0B_mobile.label = Revit Model A
+Button_846A386D_8BE6_DEB5_41D0_0D460F78A615.label = Revit Model B
+Button_846A386D_8BE6_DEB5_41D0_0D460F78A615_mobile.label = Revit Model B
+
+### Image
+Image_A0A9942F_B0EC_EF3D_41DC_1A9EBAA13A21.url = skin/Image_A0A9942F_B0EC_EF3D_41DC_1A9EBAA13A21_en.png
+Image_A0A9942F_B0EC_EF3D_41DC_1A9EBAA13A21_mobile.url = skin/Image_A0A9942F_B0EC_EF3D_41DC_1A9EBAA13A21_mobile_en.png
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Hydro Project 
